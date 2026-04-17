@@ -5,3 +5,6 @@ https://github.com/CoolOutlawsStudio/gdl
 https://github.com/CoolOutlawsStudio/nexuschat
 https://github.com/CoolOutlawsStudio/devil-level
 https://github.com/CoolOutlawsStudio/Game-Stash
+https://github.com/CoolOutlawsStudio/Orbit
+https://github.com/CoolOutlawsStudio/polytrack
+https://github.com/CoolOutlawsStudio/Gladihoppers
